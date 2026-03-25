@@ -2,3 +2,6 @@
 raw-dataset/AnimeList.csv
 raw-dataset/UserAnimeList.csv
 raw-dataset/UserList.csv
+.venv
+.python-version
+datasets
